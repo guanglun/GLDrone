@@ -10,6 +10,8 @@ GLDrone是独立自制机架和电调飞控的开源项目，轴距在140左右�
 [机架设计文件(使用Fusion360)](https://github.com/guanglun/GLDrone)  
 [电调原理图PCB(立创EDA)](https://oshwhub.com/guanglun/gldrone_blheli_esc)  
 [飞控原理图PCB(立创EDA)](https://oshwhub.com/guanglun/gldrone_px4)  
+[修改后的PX4源码(见)](https://github.com/guanglun/PX4-Autopilot)  
+机架设计文件Fusion360分享地址：[https://a360.co/30LNv4s](https://a360.co/30LNv4s)  
 
 ## 说明
 * 电调设计参考[https://github.com/ckflight/ESC_BLDC_HARDWARE](https://github.com/ckflight/ESC_BLDC_HARDWARE)  
