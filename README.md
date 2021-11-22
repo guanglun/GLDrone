@@ -35,30 +35,29 @@ GLDrone项目使用MIT协议，代码及机架、电调飞控PCB皆开放源文�
 * [【硬核开源】自制运动捕捉我的自制飞行器！自研开源项目GLMocap与GLDrone最新进展](https://www.bilibili.com/video/BV1cQ4y1U7HJ/)  
 * [自制机架GLMocap室内定位效果](https://www.bilibili.com/video/BV1EP4y1L723/)  
 * [>>硬核开源! GLDrone开源四旋翼无人机项目](https://www.bilibili.com/video/BV1vf4y1M7S2/)  
-<br />  
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone7.jpg)   
-<br />  
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone12.jpg)  
-<br /> 
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone13.jpg)  
-<br /> 
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone1.jpg)   
-<br />  
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone2.jpg)   
-<br />  
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone3.jpg)   
-<br />  
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone6.jpg)   
-<br />  
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone10.jpg)  
-<br />  
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone8.jpg)  
-<br />  
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone9.jpg)  
-<br />  
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone4.jpg)   
-<br />  
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone5.jpg)   
-<br />  
+<br />
 ![gldrone](http://guanglundz.com/gldrone/img/gldrone11.jpg)  
 
